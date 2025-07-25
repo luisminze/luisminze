@@ -8,6 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=seuusuario&style=for-the-badge" alt="visitors"/>
 </p>
 
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisminze&show_icons=true&theme=github_dark&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisminze&layout=compact&theme=github_dark" />
+</p>
+
+---
 ---
 
 ## 🧬 Sobre mim
@@ -35,14 +44,5 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisminze&show_icons=true&theme=github_dark&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisminze&layout=compact&theme=github_dark" />
-</p>
-
----
 
 
