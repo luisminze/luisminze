@@ -13,9 +13,8 @@
 ## 🧬 Sobre mim
 
 - 💻 Proficente e focado ao objetivo profissional
-- 🎥 Criador de histórias insanas de ficção, filmes e personagens únicos
 - 🧠 Em busca constante do aperfeiçoamento em meus conhecimentos gerais
-- 🤯 Criativo
+- 🤝 Proativo e prestativo em equipe
 
 ---
 
