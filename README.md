@@ -1,14 +1,14 @@
-<h1 align="center">👋 Olá, eu sou Luís!
+<h1 align="center">👋 Hi, I'm am Luís!
 
 <p align="center">
-  🔧 Desenvolvedor | 🖌️ Desinger 
+  🔧 Developer | 🖌️ Desinger 
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seuusuario&style=for-the-badge" alt="visitors"/>
 </p>
 
-## 📊 Estatísticas GitHub
+## 📊 Stastics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisminze&show_icons=true&theme=github_dark&count_private=true" />
@@ -19,17 +19,16 @@
 ---
 ---
 
-## 🧬 Sobre mim
+## 🧬 Infos
 
-- 💻 Proficente e focado ao objetivo profissional
-- 🧠 Em busca constante do aperfeiçoamento em meus conhecimentos gerais
-- 🤝 Proativo e prestativo em equipe
-
+- 💻 Proficient and focused on professional goals
+- 🧠 Constantly seeking to improve my general knowledge
+- 🤝 Proactive and helpful team player
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧠 Skills
 
-| Linguagens      | Frameworks & Ferramentas         | Outros                    |
+| Languages     | Frameworks and Tools      | Others                    |
 |-----------------|----------------------------------|---------------------------|
 | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | React Native, Flutter, Qt | Git & GitHub, Figma       |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Node.js, Express, Flask   | Design UI/UX              |
@@ -37,7 +36,7 @@
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisminze)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisminze@gmail.com)
