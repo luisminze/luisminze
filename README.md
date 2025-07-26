@@ -21,11 +21,8 @@
 
 ## ![Skills](https://github.com/luisminze/luisminze/blob/main/media/Skills.gif) Skills
 
-| Languages     | Frameworks and Tools      | Others                    |
-|-----------------|----------------------------------|---------------------------|
-| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | React Native, Flutter, Qt | Git & GitHub, Figma       |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Node.js, Express, Flask   | Design UI/UX              |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Firebase, MongoDB         | OBS Studio, Vegas Pro     |
+| Languages
+| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)       |
 
 ---
 
