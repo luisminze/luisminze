@@ -8,17 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=seuusuario&style=for-the-badge" alt="visitors"/>
 </p>
 
-## 📊 Stastics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisminze&show_icons=true&theme=github_dark&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisminze&layout=compact&theme=github_dark" />
-</p>
-
----
----
-
 ## 🧬 Infos
 
 - 💻 Proficient and focused on professional goals
@@ -34,6 +23,17 @@
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Node.js, Express, Flask   | Design UI/UX              |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Firebase, MongoDB         | OBS Studio, Vegas Pro     |
 
+---
+
+## 📊 Statics 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisminze&show_icons=true&theme=github_dark&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisminze&layout=compact&theme=github_dark" />
+</p>
+
+---
 ---
 
 ## 📬 Contact
