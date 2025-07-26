@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusuario&style=for-the-badge" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=luisminze&style=for-the-badge" alt="visitors"/>
 </p>
 
 ## 🧬 Infos
