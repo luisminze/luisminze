@@ -1,7 +1,11 @@
-<h1 align="center">👋 Hi, I'm am Luís!
+<h1 align="center">👋 Hi, I'm am Luís!</h1>
 
 <p align="center">
-  🔧 Developer | 🖌️ Desinger 
+  <img src="https://raw.githubusercontent.com/luisminze/luisminze/main/media/banner.gif" alt="Banner" />
+</p>
+
+<p align="center">
+  🔧 Developer | 🖌️ Designer 
 </p>
 
 <p align="center">
@@ -10,12 +14,13 @@
 
 ## 🧬 Infos
 
-- 💻 Proficient and focused on professional goals
-- 🧠 Constantly seeking to improve my general knowledge
-- 🤝 Proactive and helpful team player
+- 💻 Proficient and focused on professional goals  
+- 🧠 Constantly seeking to improve my general knowledge  
+- 🤝 Proactive and helpful team player  
+
 ---
 
-## [![Skills](media/Skills.gif](https://github.com/luisminze/luisminze/blob/main/media/Skills.gif) Skills
+## ![Skills](https://github.com/luisminze/luisminze/blob/main/media/Skills.gif) Skills
 
 | Languages     | Frameworks and Tools      | Others                    |
 |-----------------|----------------------------------|---------------------------|
@@ -34,7 +39,6 @@
 </p>
 
 ---
----
 
 ## 📬 Contact
 
@@ -42,6 +46,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisminze@gmail.com)
 
 ---
-
-
-
