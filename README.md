@@ -38,7 +38,7 @@
 
 ## 📬 Contact
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif))](https://linkedin.com/in/luisminze)  
+[![LinkedIn](https://github.com/luisminze/luisminze/blob/main/Linkedin.gif)](https://linkedin.com/in/luisminze)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisminze@gmail.com)
 
 ---
