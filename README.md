@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hi, I'm am Luís!</h1>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luisminze/luisminze/main/media/Banner.gif" alt="Banner" />
+  🔧 Developer | 🖌️ Designer 
 </p>
 
 <p align="center">
-  🔧 Developer | 🖌️ Designer 
+  <img src="https://raw.githubusercontent.com/luisminze/luisminze/main/media/Banner.gif" alt="Banner" />
 </p>
 
 <p align="center">
