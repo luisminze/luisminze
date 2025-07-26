@@ -15,7 +15,7 @@
 - 🤝 Proactive and helpful team player
 ---
 
-## 🧠 Skills
+## [![Skills](media/Skills.gif](https://github.com/luisminze/luisminze/blob/main/media/Skills.gif) Skills
 
 | Languages     | Frameworks and Tools      | Others                    |
 |-----------------|----------------------------------|---------------------------|
