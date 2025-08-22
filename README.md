@@ -12,18 +12,18 @@
 - 💻 Proficient and focused on professional goals  
 - 🧠 Constantly seeking to improve my general knowledge  
 - 🤝 Proactive and helpful team player
-- 
+  
 <h2>Languages</h2>
 
 <p align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
     <img src="./media/html.gif" width="100"><br> HTML
   </figure>
-
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="./media/css.gif" width="100"><br>
-    CSS
-  </figure>
+  
+<figure>
+  <img src="./medio/css.gif" alt="Descrição da imagem">
+  <figcaption>CSS</figcaption>
+</figure>
 
   <figure style="display:inline-block; text-align:center; margin:10px;">
     <img src="./media/js.gif" width="100"><br>
