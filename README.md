@@ -20,13 +20,18 @@
 
 <p align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="./media/html.gif" width="128"><br>
-    <figcaption>HTML</figcaption>
+    <img src="./media/html.gif" width="100"><br>
+    HTML
   </figure>
-  
+
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="./media/css.gif" width="128"><br>
-    <figcaption>CSS</figcaption>
+    <img src="./media/css.gif" width="100"><br>
+    CSS
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="./media/js.gif" width="100"><br>
+    JS
   </figure>
 </p>
 
