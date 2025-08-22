@@ -2,7 +2,7 @@
 <p align="center">
   🔧 Developer | 🖌️ Designer 
 </p>
-## 🧬 Infos
+- 🧬 Infos
 
 - 💻 Proficient and focused on professional goals  
 - 🧠 Constantly seeking to improve my general knowledge  
@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 Statics 
+- 📊 Statics 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisminze&show_icons=true&theme=github_dark&count_private=true" />
