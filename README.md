@@ -35,13 +35,11 @@
   </figure>
 </p>
 
--📊 Statics 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisminze&show_icons=true&theme=github_dark&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisminze&layout=compact&theme=github_dark" />
+<img src="./media/redline.gif" width="1000">
 </p>
+
+-📊 Projects 
 
 <p align="center">
 <img src="./media/rgbline.gif" width="1000">
