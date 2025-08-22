@@ -36,15 +36,14 @@
 </p>
 
 <p align="center">
-<img src="./media/redline.gif" width="1000">
+<img src="./media/rgbline.gif" width="1000">
 </p>
 
 -📊 Projects 
 
 <p align="center">
-<img src="./media/rgbline.gif" width="1000">
+<img src="./media/redline.gif" width="1000">
 </p>
-
 ##📬 Contact
 
 [![LinkedIn](https://github.com/luisminze/luisminze/blob/main/Linkedin.gif)](https://linkedin.com/in/luisminze)  
