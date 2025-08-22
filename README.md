@@ -1,7 +1,9 @@
-  <h1 align="center">👋 Hi, I'm am Luís!</h1>
+<h1 align="center">👋 Hi, I'm am Luís! 
   <p align="center">
 <img src="./media/rgbline.gif" width="1000">
-</p>
+</p> </h1>
+
+
   
 <p align="center">
   🔧 Developer | 🖌️ Designer 
