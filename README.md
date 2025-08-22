@@ -28,9 +28,6 @@
 
 </div>
 
-
----
-
 <h2>Projects
   <p align="center">
 <img src="./media/redline.gif" width="1000">
@@ -38,8 +35,6 @@
 </h2>
 1. [Oxente Maria Store]([link_do_projeto_1](https://github.com/luisminze/lojaoxentemaria)) - Simple store site.
 
-
----
 <h2>Contact</h2>
 
 [![LinkedIn](https://github.com/luisminze/luisminze/blob/main/Linkedin.gif)](https://linkedin.com/in/luisminze)  
