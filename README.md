@@ -5,7 +5,7 @@
 <p align="center">
   🔧 Developer | 🖌️ Designer 
 </p>
-- 🧬 Infos
+##🧬 Infos
 
 - 💻 Proficient and focused on professional goals  
 - 🧠 Constantly seeking to improve my general knowledge  
@@ -13,7 +13,7 @@
 
 ---
 
-- 📊 Statics 
+##📊 Statics 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisminze&show_icons=true&theme=github_dark&count_private=true" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 📬 Contact
+##📬 Contact
 
 [![LinkedIn](https://github.com/luisminze/luisminze/blob/main/Linkedin.gif)](https://linkedin.com/in/luisminze)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisminze@gmail.com)
