@@ -19,8 +19,15 @@
 - Languages
 
 <p align="center">
-<img src="./media/html.gif" width="200">
-  *HTML*
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="./media/html.gif" width="200"><br>
+    <figcaption>HTML</figcaption>
+  </figure>
+  
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="./media/css.gif" width="200"><br>
+    <figcaption>CSS</figcaption>
+  </figure>
 </p>
 
 -📊 Statics 
