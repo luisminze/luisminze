@@ -1,9 +1,10 @@
-<p align="center">
-<img src="./media/rgbline.gif" width="1000">
-</p>
   <h1 align="center">👋 Hi, I'm am Luís!</h1>
 <p align="center">
   🔧 Developer | 🖌️ Designer 
+</p>
+
+<p align="center">
+<img src="./media/rgbline.gif" width="1000">
 </p>
 ##🧬 Infos
 
@@ -11,7 +12,9 @@
 - 🧠 Constantly seeking to improve my general knowledge  
 - 🤝 Proactive and helpful team player  
 
----
+<p align="center">
+<img src="./media/rgbline.gif" width="1000">
+</p>
 
 ##📊 Statics 
 
