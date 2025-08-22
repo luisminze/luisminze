@@ -33,8 +33,7 @@
 
 ---
 
-<h2>Projects</h2>
-<p align="center">
+<h2>Projects</h2> <p align="center">
 <img src="./media/redline.gif" width="1000">
 </p>
 
