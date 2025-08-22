@@ -3,8 +3,6 @@
 <img src="./media/rgbline.gif" width="1000">
 </p> </h1>
 
-
-  
 <p align="center">
   🔧 Developer | 🖌️ Designer 
 </p>
@@ -15,9 +13,6 @@
 - 🧠 Constantly seeking to improve my general knowledge  
 - 🤝 Proactive and helpful team player  
 
-<p align="center">
-<img src="./media/rgbline.gif" width="1000">
-</p>
 - Languages
 
 <p align="center">
