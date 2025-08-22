@@ -3,19 +3,7 @@
   🔧 Developer | 🖌️ Designer 
 </p> 
 <p align="center">
-<img src="./media/rgbline.gif" width="1000">
-  </h1>
-</p> 
-
-<h2>Infos</h2>
-
-- 💻 Proficient and focused on professional goals  
-- 🧠 Constantly seeking to improve my general knowledge  
-- 🤝 Proactive and helpful team player
-  
-<h2>Languages</h2>
-
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   
   <figure style="text-align: center;">
       <img src="./media/html.gif" width="64" alt="Projeto 1">
@@ -28,6 +16,15 @@
   <figure style="text-align: center;">
       <img src="./media/js.gif" width="64" alt="Projeto 3">
   </figure>
+<img src="./media/rgbline.gif" width="1000">
+  </h1>
+</p> 
+
+<h2>Infos</h2>
+
+- 💻 Proficient and focused on professional goals  
+- 🧠 Constantly seeking to improve my general knowledge  
+- 🤝 Proactive and helpful team player
 
 </div>
 
