@@ -20,8 +20,7 @@
 
 <p align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="./media/html.gif" width="100"><br>
-    HTML
+    <img src="./media/html.gif" width="100"><br> HTML
   </figure>
 
   <figure style="display:inline-block; text-align:center; margin:10px;">
