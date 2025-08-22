@@ -19,7 +19,7 @@
 
   <!-- Projeto 1 -->
   <figure style="text-align: center;">
-      <img src="./media/html.gif" width="128" alt="Projeto 1">
+      <img src="./media/html.gif" width="64" alt="Projeto 1">
     </a>
     <figcaption>Projeto 1</figcaption>
   </figure>
@@ -27,7 +27,7 @@
   <!-- Projeto 2 -->
   <figure style="text-align: center;">
     <a href="link_projeto_2" target="_blank">
-      <img src="link_gif_2" width="200" alt="Projeto 2">
+      <img src="./media/css.gif" width="200" alt="Projeto 2">
     </a>
     <figcaption>Projeto 2</figcaption>
   </figure>
@@ -35,9 +35,9 @@
   <!-- Projeto 3 -->
   <figure style="text-align: center;">
     <a href="link_projeto_3" target="_blank">
-      <img src="link_gif_3" width="200" alt="Projeto 3">
+      <img src="./media/js.gif" width="200" alt="Projeto 3">
     </a>
-    <figcaption>Projeto 3</figcaption>
+    <figcaption>Javascript</figcaption>
   </figure>
 
 </div>
