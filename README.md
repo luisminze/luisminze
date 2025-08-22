@@ -27,7 +27,7 @@
   <!-- Projeto 2 -->
   <figure style="text-align: center;">
     <a href="link_projeto_2" target="_blank">
-      <img src="./media/css.gif" width="200" alt="Projeto 2">
+      <img src="./media/css.gif" width="64" alt="Projeto 2">
     </a>
     <figcaption>Projeto 2</figcaption>
   </figure>
@@ -35,7 +35,7 @@
   <!-- Projeto 3 -->
   <figure style="text-align: center;">
     <a href="link_projeto_3" target="_blank">
-      <img src="./media/js.gif" width="200" alt="Projeto 3">
+      <img src="./media/js.gif" width="64" alt="Projeto 3">
     </a>
     <figcaption>Javascript</figcaption>
   </figure>
