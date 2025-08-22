@@ -13,9 +13,7 @@
 - 🧠 Constantly seeking to improve my general knowledge  
 - 🤝 Proactive and helpful team player  
 ---
-<h2>Languages
----
-</h2>
+<h2>Languages</h2>
 
 <p align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
