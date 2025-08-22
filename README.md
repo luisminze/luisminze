@@ -33,7 +33,6 @@
 <img src="./media/redline.gif" width="1000">
 </p>
 </h2>
-[Oxente Maria Store]([(https://github.com/luisminze/lojaoxentemaria]) - Simple store site.
 
 <h2>Contact</h2>
 
