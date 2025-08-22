@@ -15,13 +15,8 @@
   
 <h2>Languages</h2>
 
-<p align="center">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="./media/html.gif" width="100"><br> HTML
-  </figure>
-  
 <figure>
-  <img src="./medio/css.gif" alt="Descrição da imagem">
+  <img src="./media/css.gif" alt="Descrição da imagem">
   <figcaption>CSS</figcaption>
 </figure>
 
