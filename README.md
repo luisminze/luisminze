@@ -6,6 +6,7 @@
 <p align="center">
 <img src="./media/rgbline.gif" width="1000">
 </p>
+
 -🧬 Infos
 
 - 💻 Proficient and focused on professional goals  
@@ -14,6 +15,12 @@
 
 <p align="center">
 <img src="./media/rgbline.gif" width="1000">
+</p>
+- Languages
+
+<p align="center">
+<img src="./media/html.gif" width="200">
+  *HTML*
 </p>
 
 -📊 Statics 
