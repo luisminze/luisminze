@@ -7,7 +7,7 @@
   </h1>
 </p> 
 
-<h2>🧬 Infos</h2>
+<h2>Infos</h2>
 
 - 💻 Proficient and focused on professional goals  
 - 🧠 Constantly seeking to improve my general knowledge  
@@ -34,12 +34,12 @@
 ---
 
 <h2>Projects</h2>
-
-1. [Oxente Maria Store]([link_do_projeto_1](https://github.com/luisminze/lojaoxentemaria)) - Simple store site.
-
 <p align="center">
 <img src="./media/redline.gif" width="1000">
 </p>
+
+1. [Oxente Maria Store]([link_do_projeto_1](https://github.com/luisminze/lojaoxentemaria)) - Simple store site.
+
 
 ---
 <h2>Contact</h2>
