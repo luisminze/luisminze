@@ -12,7 +12,7 @@
 - 💻 Proficient and focused on professional goals  
 - 🧠 Constantly seeking to improve my general knowledge  
 - 🤝 Proactive and helpful team player  
-
+---
 - Languages
 
 <p align="center">
@@ -34,7 +34,7 @@
 <p align="center">
 <img src="./media/rgbline.gif" width="1000">
 </p>
-
+---
 -📊 Projects 
 
 <p align="center">
