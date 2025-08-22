@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./media/rgbline.gif" width="400"> />
+<img src="./media/rgbline.gif" width="1000">
 </p>
   <h1 align="center">👋 Hi, I'm am Luís!</h1>
 <p align="center">
