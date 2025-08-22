@@ -40,5 +40,5 @@
 [![LinkedIn](https://github.com/luisminze/luisminze/blob/main/Linkedin.gif)](https://linkedin.com/in/luisminze)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisminze@gmail.com)
   <p align="center">
-<img src="./media/pacmanline.gif" width="1000">
+<img src="./media/pacmanline.gif" width="500">
 </p>
