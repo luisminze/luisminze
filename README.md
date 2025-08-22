@@ -20,12 +20,12 @@
 
 <p align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="./media/html.gif" width="32"><br>
+    <img src="./media/html.gif" width="128"><br>
     <figcaption>HTML</figcaption>
   </figure>
   
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="./media/css.gif" width="32"><br>
+    <img src="./media/css.gif" width="128"><br>
     <figcaption>CSS</figcaption>
   </figure>
 </p>
