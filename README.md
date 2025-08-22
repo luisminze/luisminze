@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm am Luís! 
-  <p align="center">
-<img src="./media/rgbline.gif" width="1000">
-</p> 
 <p align="center">
   🔧 Developer | 🖌️ Designer 
 </p> </h1>
+<p align="center">
+<img src="./media/rgbline.gif" width="1000">
+</p> 
 
 <h2>🧬 Infos</h2>
 
