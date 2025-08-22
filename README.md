@@ -33,14 +33,14 @@
 
 ---
 
-📊 Projects 
+<h2>Projects</h2>
 
 <p align="center">
 <img src="./media/redline.gif" width="1000">
 </p>
 
 ---
-##📬 Contact
+<h2>Contact</h2>
 
 [![LinkedIn](https://github.com/luisminze/luisminze/blob/main/Linkedin.gif)](https://linkedin.com/in/luisminze)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisminze@gmail.com)
