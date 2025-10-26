@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm am Luís! 
 <p align="center">
-🔧 Estudante de Desenvolvimento de Software
+🔧 Software Development Student
 </p> 
 <p align="center">
   <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
