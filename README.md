@@ -22,9 +22,9 @@
 
 <h2>Infos</h2>
 
-- 💻 Proficient and focused on professional goals  
-- 🧠 Constantly seeking to improve my general knowledge  
-- 🤝 Proactive and helpful team player
+⚙️ Organizado
+🎯 Focado em aprendizado contínuo
+💡 Resolução de problemas
 
 </div>
 
