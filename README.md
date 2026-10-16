@@ -1,6 +1,9 @@
-<h1 align="center">👋 Hi, I'm am Luís! 
+<h1 align="center">
 <p align="center">
 Software Development Student
+</p> 
+  <p align="center">
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 </p> 
 <h2>Infos</h2>
 </div>
