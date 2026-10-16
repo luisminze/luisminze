@@ -21,11 +21,6 @@
 </p> 
 
 <h2>Infos</h2>
-
-⚙️ Organizado
-🎯 Focado em aprendizado contínuo
-💡 Resolução de problemas
-
 </div>
 
 <h2>Projects
