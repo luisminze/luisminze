@@ -4,9 +4,6 @@
 </p> 
 <img src="./media/rgbline.gif" width="1000">
   </h1>
-<h2>Infos</h2>
-</div>
-
 <h2>Projects
   <p align="center">
 <img src="./media/redline.gif" width="1000">
