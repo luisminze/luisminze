@@ -1,25 +1,7 @@
 <h1 align="center">👋 Hi, I'm am Luís! 
 <p align="center">
-🔧 Software Development Student
+Software Development Student
 </p> 
-<p align="center">
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  
-  <figure style="text-align: center;">
-      <img src="./media/html.gif" width="64" alt="Projeto 1">
-  </figure>
-  
-  <figure style="text-align: center;">
-      <img src="./media/css.gif" width="64" alt="Projeto 2">
-  </figure>
-
-  <figure style="text-align: center;">
-      <img src="./media/js.gif" width="64" alt="Projeto 3">
-  </figure>
-<img src="./media/rgbline.gif" width="1000">
-  </h1>
-</p> 
-
 <h2>Infos</h2>
 </div>
 
