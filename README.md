@@ -1,10 +1,9 @@
-<h1 align="center">
-<p align="center">
-Software Development Student
-</p> 
+<h1 align="center"> Welcome !
   <p align="center">
   <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 </p> 
+<img src="./media/rgbline.gif" width="1000">
+  </h1>
 <h2>Infos</h2>
 </div>
 
